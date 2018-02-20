@@ -17,7 +17,8 @@ const alternativeValues = {
 const alternativeProps = {
   alignItems: 'WebkitBoxAlign',
   justifyContent: 'WebkitBoxPack',
-  flexWrap: 'WebkitBoxLines'
+  flexWrap: 'WebkitBoxLines',
+  flexGrow: 'WebkitBoxFlex'
 }
 
 const otherProps = [
